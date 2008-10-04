@@ -4,13 +4,35 @@
 
 
 Lançamento: TBA
+<br>
 Publicado por: CusCuz Digital
+<br>
 Desenvolvido por: CusCuz Digital
+<br>
 Plataforma: pys60
+<br>
 Gênero: RPG/Ação
+<br>
 Categoria: 
+<br>
 Perspectiva: Beat'em up
+<br>
 Outras versões: 
+
+
+
+
+
+= DESCRIÇÃO DO SITE OFICIAL: =
+A vida de James Sunderland é despedaçada quando sua jovem esposa Mary sofre uma morte trágica. Três anos mais tarde, uma misteriosa carta chega enviada por Mary, chamando-o para voltar a seu santuário de memórias, o reino obscuro de Silent Hill.
+Agora James deve voltar àquele lugar especial para descobrir a verdade, desavisado de que as respostas que procura podem exigir o último sacrifício.
+
+= Características: =
+
+    * Explore novas áreas que estavam bloqueadas no jogo original
+    * Efeitos dinâmicos de câmera e ambientes belamente renderizados
+    * Efeitos de clima em tempo real, neblina, mudanças e sombras
+    * Explore seus mais profundos medos interiores conforme a história progride 
 
 
 
