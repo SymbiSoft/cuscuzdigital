@@ -1,29 +1,10 @@
 #summary One-sentence summary of this page.
 
-= Introduction =
-
-
-Lançamento: TBA
-<br>
-Publicado por: CusCuz Digital
-<br>
-Desenvolvido por: CusCuz Digital
-<br>
-Plataforma: pys60
-<br>
-Gênero: RPG/Ação
-<br>
-Categoria: 
-<br>
-Perspectiva: Beat'em up
-<br>
-Outras versões: 
 
 
 
 
-
-= DESCRIÇÃO DO SITE OFICIAL: =
+= DESCRIÇÃO : =
 A vida de James Sunderland é despedaçada quando sua jovem esposa Mary sofre uma morte trágica. Três anos mais tarde, uma misteriosa carta chega enviada por Mary, chamando-o para voltar a seu santuário de memórias, o reino obscuro de Silent Hill.
 Agora James deve voltar àquele lugar especial para descobrir a verdade, desavisado de que as respostas que procura podem exigir o último sacrifício.
 
@@ -38,7 +19,21 @@ Agora James deve voltar àquele lugar especial para descobrir a verdade, desavis
 
 = Details =
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+
+
+
+Lançamento: TBA
+
+Publicado por: CusCuz Digital
+
+Desenvolvido por: CusCuz Digital
+
+Plataforma: pys60
+
+Gênero: RPG/Ação
+
+Categoria: 
+
+Perspectiva: Beat'em up
+
+Outras versões: 
